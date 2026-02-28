@@ -83,4 +83,8 @@ Abaixo, os prompts testados e validados para apoio ao estudo:
 * **Valuation:** Relação entre valor de mercado e valor contábil (P/VPA).
 
 ---
+
+## 🚀 Acesso ao Caderno
+> *Você também pode acessar o caderno original que serviu de base para este guia através deste link: [NOTEBOOKLM](https://notebooklm.google.com/notebook/3ee54b29-fc1d-4754-a70c-ab952b26ac5a)* 
+
 *Este material foi produzido para fins educacionais e não constitui recomendação de investimento.*
